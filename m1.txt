@@ -13,3 +13,5 @@ Now push the code to central repo
 git push origin master    
 
 just checking from mybewbranch
+
+git push origin mynewbranch
