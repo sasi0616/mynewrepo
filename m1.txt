@@ -15,3 +15,5 @@ git push origin master
 just checking from mybewbranch
 
 git push origin mynewbranch
+
+code changed in mynewbranch directly at repo
